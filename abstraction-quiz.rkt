@@ -42,10 +42,6 @@
 (define (beside-all loi)
   (arrange-all beside loi))
 
-
-
-
-
 ;  PROBLEM 2:
 ;  
 ;  Finish the design of the following functions, using built-in abstract functions. 
